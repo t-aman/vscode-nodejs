@@ -2,7 +2,7 @@
 
 #### VSCodeデバッグ用 server.js
 
-VSCodeのデバッグ（node.js）を行う際の定義ファイルです。
+VSCodeの静的ファイルのデバッグ（node.js）を行う際の定義ファイルです。
 
 #### 動作環境
 
